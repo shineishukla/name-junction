@@ -11,7 +11,7 @@ class App extends React.Component {
         super();
 
         this.state = {
-            headerText: 'Name It!',
+            headerText: 'Name Junction!',
             headerExpanded: true,
             suggestedNames: [],
         };
